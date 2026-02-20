@@ -216,6 +216,6 @@ Melhorias futuras (planejadas)
 Contato
 Feito por Omega/Shatkip (João Pedro)
 Email: jpcarvalhotheis@gmail.com
-LinkedIn: [se tiver, coloque]
+LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-carvalho-theis-b547672a5?utm_source=share_via&utm_content=profile&utm_medium=member_android
 Feito com dedicação pra mostrar o que consigo fazer em Java + banco de dados. >:)
 
