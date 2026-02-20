@@ -190,7 +190,7 @@ COMMIT;
 	8: atrasados
 	9: busca de livros
 	0: sair
-
+<image-card alt="Print do menu do sistema" src="https://github.com/Omegaofi/biblioteca-sistema/blob/master/image.png" ></image-card>
 
 
 7. Estrutura do projeto: 
